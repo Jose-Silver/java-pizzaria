@@ -1,0 +1,12 @@
+------------Detalhes-----------
+[-] ID: 0450fe82-c2f6-4087-9edc-b502261e6714
+[-]  Lanche: donuts
+[-] Descricao: sem sal
+[-] Quantidade: 2
+Horas: 02/08/2023 21:18
+
+ ----Detalhes do cliente ------
+[-] Name: jose
+[-] Street Name: niculau
+[-] Street Number: 201
+-----------------------------------------
